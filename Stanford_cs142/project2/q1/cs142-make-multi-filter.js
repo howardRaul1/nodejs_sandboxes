@@ -1,3 +1,5 @@
+// noinspection UnnecessaryLocalVariableJS
+
 "use strict";
 
 
