@@ -1,7 +1,7 @@
 // Invoking cs142MakeMultiFilter() with originalArray = [1, 2, 3] returns a
 // function, saved in the variable arrayFilterer1, that can be used to
 // repeatedly filter the input array
-// noinspection ES6ConvertVarToLetConst,JSCheckFunctionSignatures,JSValidateTypes
+// noinspection ES6ConvertVarToLetConst,JSCheckFunctionSignatures,JSValidateTypes,DuplicatedCode
 
 var arrayFilterer1 = cs142MakeMultiFilter([1, 2, 3]);
 

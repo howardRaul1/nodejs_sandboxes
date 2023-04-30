@@ -1,3 +1,5 @@
+// noinspection JSCheckFunctionSignatures,DuplicatedCode,ES6ConvertVarToLetConst
+
 "use strict";
 function cs142MakeMultiFilter (originalArray) {
 	const currentArray = [...originalArray];
