@@ -1,4 +1,4 @@
-// noinspection ES6ConvertVarToLetConst,JSCheckFunctionSignatures
+// noinspection ES6ConvertVarToLetConst,JSCheckFunctionSignatures,JSUnusedAssignment
 
 "use strict";
 
@@ -11,6 +11,27 @@
 /* eslint-env browser, node */
 
 // Result message for Problems 1-3
+
+
+
+
+
+
+
+
+
+(function () {
+
+
+
+
+
+
+
+
+
+
+
 var p1Message = "SUCCESS";
 var p2Message = "SUCCESS";
 var p3Message = "SUCCESS";
@@ -190,3 +211,5 @@ window.onload = function () {
   document.getElementById("cs142p2").innerHTML = p2Message;
   document.getElementById("cs142p3").innerHTML = p3Message;
 };
+
+})();
