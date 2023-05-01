@@ -212,4 +212,4 @@ window.onload = function () {
   document.getElementById("cs142p3").innerHTML = p3Message;
 };
 
-})();
+}());
