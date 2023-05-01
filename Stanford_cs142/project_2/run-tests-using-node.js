@@ -1,5 +1,3 @@
-// noinspection ES6ConvertVarToLetConst
-
 "use strict";
 
 /**

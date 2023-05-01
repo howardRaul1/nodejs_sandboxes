@@ -1,8 +1,4 @@
 {
-  "ignorePatterns": [
-    "**/q?_question.js",
-    "**/cs142-test-project2.js"
-  ],
   "extends": [
     "eslint:recommended",
     "eslint-config-airbnb-base"
