@@ -1,3 +1,5 @@
+// noinspection ES6ConvertVarToLetConst,JSCheckFunctionSignatures
+
 "use strict";
 
 /**
