@@ -1,3 +1,5 @@
+// noinspection ES6ConvertVarToLetConst
+
 'use strict';
 
 function cs142MakeMultiFilter(originalArray){
